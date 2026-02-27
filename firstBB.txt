@@ -1,3 +1,2 @@
 First BB Edit text file for Git concepts.
-
 Created feature branch
