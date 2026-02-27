@@ -1,6 +1,10 @@
 First BB Edit text file for Git concepts.
 
+<<<<<<< HEAD
 Created feature branch
 
 
 File change for second commmint on main branch
+=======
+Created feature branch
+>>>>>>> featureBranchMM
